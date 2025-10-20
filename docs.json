@@ -4,7 +4,7 @@
   "name": "Plug",
   "colors": {
     "primary": "#B1ACFF",
-    "light": "#F8F8F8",
+    "light": "#B1ACFF",
     "dark": "#8981FF"
   },
   "favicon": "/favicon.svg",
